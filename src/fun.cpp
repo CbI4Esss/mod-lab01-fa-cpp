@@ -1,3 +1,4 @@
+// Copyright 2022 UNN-IASR
 #include <math.h>
 #include <iostream>
 #include <cctype>
